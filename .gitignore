@@ -1,0 +1,6 @@
+# Ignore local data and report
+*.docx
+*.csv
+
+# Ignore local virtual environment
+.venv/
