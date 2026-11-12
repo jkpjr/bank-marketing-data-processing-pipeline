@@ -1,6 +1,7 @@
-# Ignore local data and report
+# Ignore local datasets, report, and artifacts
 *.docx
 *.csv
+*.joblib
 
 # Ignore local virtual environment
 .venv/
